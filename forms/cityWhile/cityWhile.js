@@ -5,6 +5,7 @@ Cities go into an array named 'cities'.
 When city input is done, use a while loop that outputs to the console each city on its' own line in all lower case, using a template literal.
 */
 
+/*
 let wantToContinue = true
 let cities = []
 let enterCity = ""
@@ -21,4 +22,4 @@ while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i = i + 1
   }
-
+*/
