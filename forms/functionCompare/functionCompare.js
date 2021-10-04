@@ -7,6 +7,7 @@ Hint: .localeCompare() is a handy string method..... (see https://www.w3schools.
 The variables used inside the function must be declared in the function (the function parameters, etc). No global variables (ie. declared outside the function) may be used in the function.  
 */
 
+/*
 function Compare(pass1, pass2) {
   if (pass1 == pass2) {
     console.log(`The passwords are the same.`)
@@ -20,4 +21,4 @@ let password2 = prompt("Re-enter a password:")
 
 let passwordCompare = Compare(password1,password2)
 
-
+*/
